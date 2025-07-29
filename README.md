@@ -1,1 +1,1 @@
-we belong to school of engineering
+Hi, we are from Shiv Nadar University Chennaiecho We belong to School of Engineering. >> README.md
