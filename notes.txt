@@ -1,3 +1,6 @@
 line 1:git is a version control
+<<<<<<< HEAD
 Line 2: Git tracks changes in code.
 Line 3: Git allows branching and merging.
+=======
+>>>>>>> parent of 489e794 (Commit 2: Added line about tracking changes)
